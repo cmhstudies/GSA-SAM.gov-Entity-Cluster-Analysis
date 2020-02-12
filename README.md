@@ -27,3 +27,13 @@ While developing the project proposal, the following questions arose:
 - Will the algorigthms provide more insightful information than a subject matter expert's (SME) opinion? 
 
    - How would one determine if the algorithms produced more insightful information than and SME's opinion?
+
+## Data Analysis Steps
+
+[1. Read and Filter Source Data](https://github.com/cmhstudies/GSA-SAM.gov-Entity-Cluster-Analysis/blob/master/1.%20Read%20and%20Filter%20Source%20Data.ipynb)
+
+[2. Initial Exploratory Data Analysis](https://github.com/cmhstudies/GSA-SAM.gov-Entity-Cluster-Analysis/blob/master/2.%20Initial%20Exploratory%20Data%20Analysis.ipynb)
+
+3. To Be Determined
+
+4. To Be Determined
