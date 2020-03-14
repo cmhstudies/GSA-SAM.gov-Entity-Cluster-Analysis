@@ -7,7 +7,7 @@ While supporting business development and proposal preparation activities for sm
 
 In pursuit of a Masters of Science in Data Analytics (MSDA) from Western Governors University (WGU), the final capstone project requires application of skills and knowledge gained throughout the program to an analysis project of the student's design. This repository contains the Python code and Jupyter Notebooks used for my capstone project. The project proposes using publicly-available entity registration data for investigating the applicability of clustering techniques.
 
-**Note:** As of 12 February 2020, the capstone project proposal status is pending approval.
+**Note:** Due to feedback from my capstone instructor and the nature of this problem falling more in the category of Data Science versus Data Analytics, I chose an alternative topic for my capstone project. See [https://github.com/cmhstudies/Incident-Management-Process-BPIC2014](Predicting Incident Managment SLA Failures).
 
 ## Data Source
 
